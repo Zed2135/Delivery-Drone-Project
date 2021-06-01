@@ -1,5 +1,5 @@
 # Delivery-Drone-Project
-This is the project for the paper Reusing Delivery Drones for Urban Crowdsensing, including most code and data that we use for the paper.
+This is the project for the paper Reusing Delivery Drones for Urban Crowdsensing, including most code and data that we used for the paper.
 We organized the important data and code, and upload here.
 Most code are written in python and MATLAB languages, with pseudocode to explain the functions. 
 Some pseudocode may be created during the testing process. Please ignore them.
