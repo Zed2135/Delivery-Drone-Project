@@ -15,7 +15,7 @@ The csv files are required to run the algorithms. You may generate new files acc
 If you need help in running the programs or any other issues, please contact me via my email 570486155@qq.com.
 
 2. Operation guide
-1) Use the 'datapreprocessing.py' to generate the above csv files.(With the given csv files, you can skip this setp)
+1) Use the 'datapreprocessing.py' to generate the above csv files.(With the given csv files, you can skip this step)
 2) Then run the 'RT-Drone.py' or 'RTW-Drone.py' files for RT-Drone algorithm or RTW-Drone algorithm. (The algorithms will filter a smaller route set based on your settings first. In this way, we can conduct repetitive experiments.)
 3) The algorithms will generate csv files to store the output utility and selected routes.
 
