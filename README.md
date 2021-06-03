@@ -12,4 +12,3 @@ If you have any question about the project, please leave a comment in the 'Issue
 I may not check Github frequently, so if it is ergent, please email me via 570486155@qq.com.
 
 
-I will upload the demo and the corresponding system code soon.
