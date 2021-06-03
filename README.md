@@ -8,7 +8,7 @@ The platform also includes some javascript code.
 There is a README file in each sencondary folder that explains the content.
 Please read the README file first.
 
-If you have any question about the project, please leave a comment. 
+If you have any question about the project, please leave a comment in the 'Issues' section above. 
 I may not check Github frequently, so if it is ergent, please email me via 570486155@qq.com.
 
 
