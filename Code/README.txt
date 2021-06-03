@@ -1,4 +1,4 @@
-This folder contains RT-Drone and RTW-Drone algorithms.
+This folder contains RT-Drone and RTW-Drone algorithms, and required files along with them.
 I deleted the other baselines since they are not proposed by us.
 
 1. Input requirement
