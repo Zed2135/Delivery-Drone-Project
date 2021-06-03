@@ -1,5 +1,5 @@
 This folder contains RT-Drone and RTW-Drone algorithms, and required files along with them.
-I deleted the other baselines since they are not proposed by us.
+I deleted the other baselines since they are not first proposed by us.
 
 1. Input requirement
 The 'Beta.csv', 'Distance.csv', 'eta.csv', 'Indicator.csv', 'RouteSet.csv', 'Size.csv', 'Utility.csv' files are information of entire route set, generated from the 'Beijing Service point.csv', and 'Beijing Storage point.csv' in the 'Service station & warehouse data' folder. 
