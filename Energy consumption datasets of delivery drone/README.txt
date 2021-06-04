@@ -1,5 +1,6 @@
 1. Data source 
-The log data is collected from the flight control board of the drone, Pixhawk 2.4.8, via MAVLINK using the Mission Planner platform. There are also log files (with the same information, but a different data structure) on the flight control board sd card, but those files cannot be distinguished by timestamps easily, and thus are hard to analyze. Therefore, we only utilize the log data transmitted to PC, and due to transmission interference, a few data points are missing, but most are fine.
+We built a drone with a F450 frame, and four XX2216 motors. There is a power module v1.0 equipped with the drone to monitor current and voltage of the battery. 
+The log data were collected from the flight control board of the drone, Pixhawk 2.4.8, via MAVLINK using the Mission Planner platform. There are also log files (with the same information, but a different data structure) on the flight control board sd card, but those files cannot be distinguished by timestamps easily, and thus are hard to analyze. Therefore, we only utilize the log data transmitted to PC, and due to transmission interference, a few data points are missing, but most are fine.
 
 2. Data format 
 To utilize the log data, we first transformed those '.tlog' files into '.mat' files. Then, we used MATLAB to analyze the data, because Mission Planner provides the transformation of log into '.mat' files directly.  You may transform the log files into other types as well.
