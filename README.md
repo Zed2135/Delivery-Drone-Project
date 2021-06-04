@@ -1,14 +1,7 @@
 # Delivery-Drone-Project
-This is the project for the paper Reusing Delivery Drones for Urban Crowdsensing, including most code and data that we used for the paper.
-We organized the important data and code, and upload here.
-Most code was written in python and MATLAB languages, with pseudocode to explain the functions. 
-Some pseudocode might be created during the testing process. Please ignore them.
-The platform also includes some javascript code.
-
-There is a README file in each sencondary folder that explains the content.
-Please read the README file first.
-
-If you have any question about the project, please leave a comment in the 'Issues' section above. 
-I may not check Github frequently, so if it is ergent, please email me via 570486155@qq.com.
-
+The above source code and datasets are related to a paper: (Reusing Delivery Drones for Urban Crowdsensing) which is under the review of IEEE TMC. They are consisting of 
+(i) the energy consumption dataset for the delivery drone;
+(ii) the dataset for the delivery stations of 7 main express companies in Beijing City;
+(ii) the source code of the proposed algorithms, RT-Drone and RTW-Drone;
+The detailed introductions are specified in the README files of each folder. If you have any question about the datasets and code, please send email to us  (xiangchaocan@cqu.edu.cn).
 
