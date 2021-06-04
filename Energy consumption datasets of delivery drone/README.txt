@@ -6,7 +6,9 @@ but those files cannot be distinguished by timestamps easily, and thus are hard 
 Therefore, we only utilize the log data transmitted to PC, and due to transmission interference, a few data points are missing, but most are fine.
 
 2. Data format 
-To utilize the log data, we first transformed those '.tlog' files into '.mat' files. Then, we used MATLAB to analyze the data, because Mission Planner provides the transformation of log into '.mat' files directly.  You may transform the log files into other types as well.
+To utilize the log data, we first transformed those '.tlog' files into '.mat' files. 
+Then, we used MATLAB to analyze the data, because Mission Planner provides the transformation of log into '.mat' files directly.  
+You may transform the log files into other types as well.
 
 3. Experiment settings
 1) Power exploration experiments
@@ -20,7 +22,8 @@ In each weight setting (from 0g to 600g), we let the drone hover at a location f
 In data analysis, we filtered the data from the drone's takeoffs, landings.
 
 b) straight flight
-In each weight setting (from 0g to 600g), we let the drone fly at 5m/s for 100m back and forth 3 times using flight planning of Mission Planner, which means 600m in total. Therefore, in data analysis, we filtered the data from the drone's takeoffs, landings, and turns. 
+In each weight setting (from 0g to 600g), we let the drone fly at 5m/s for 100m back and forth 3 times using flight planning of Mission Planner, which means 600m in total.
+Therefore, in data analysis, we filtered the data from the drone's takeoffs, landings, and turns. 
 The drone was very shaky when it was flying with over 500g weight, so you may find those log files strange. 
 We also filtered the unreliable data eventually. 
 
